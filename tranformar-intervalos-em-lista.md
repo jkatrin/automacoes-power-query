@@ -7,7 +7,7 @@ Quero transformar essa única linha com o intervalo, em uma lista seperando cada
 ## Passo a Passo no Power Query
 1. **Verificar se na coluna Km inicial e Km final: estão em números decimais
 2. **Verificar se a coluna Rodovia está com todas as informações padronizadas em apenas um tipo (para poder ordenar): SP 050, SP_050, SP-050 ou SP050
-3. **Adicionar coluna personalizada com nome KMS: **[`intervalo-em-lista.pq`](codigos/intervalo-em-lista.pq)
+3. **Adicionar coluna personalizada com nome KMS: **[`intervalo-em-lista.pq`]
 4. **Expandir para nova lista
 5. **Extrair antes do Delimitador:","
 6. **Duplicar a coluna Rodovia e KMS
@@ -16,4 +16,4 @@ Quero transformar essa única linha com o intervalo, em uma lista seperando cada
 9. **Subir para o excel
 
 ## Código M (Power Query)
-Veja o arquivo correspondente: [`intervalo-em-lista.pq`](codigos/intervalo-em-lista.pq)
+Veja o arquivo correspondente: [`intervalo-em-lista.pq`]
