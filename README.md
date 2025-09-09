@@ -3,7 +3,7 @@
 ## Passo a Passo no Microsoft Excel - Malha Rodoviaria Atualizada
 
 **Certificar que não tem filtro, selecionar a planilha inteira, todas as linhas e colunas (de Código a Lote).
-![Texto alternativo da imagem](selecao-planilha.png)
+![selecao-planilha](https://github.com/user-attachments/assets/a07a1577-8ce3-4345-abc6-53b65dade09b)
 
 
 ## Passo a Passo no Microsoft Excel - Verificador de Malha
