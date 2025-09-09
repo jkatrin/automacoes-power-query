@@ -83,7 +83,8 @@ Agora vai até essa linha
 
 ## Passo a Passo Proteger Planilha de Edições  
 Coloque o filtro na planilha, porque após travar não será possível  
-Selecione as células da fórmula (abaixo da coluna "Verificador)  
+Selecione as células da fórmula (abaixo da coluna "Verificador") 
+![prot](https://github.com/user-attachments/assets/ec38b325-6c02-4507-b80e-e72b946777fd)
 Na aba "Revisão", no campo de "Alterações" clique em "Proteger Planilha", certifique-se que esteja no check: Selecionar células bloqueadas, selecionar células desbloqueadas, classificar, usar autofiltro.  
 **Oculte a aba "banco-de-dados"  
 **Faça o mesmo processo para as demais regionais e MALHA ATUALIZADA!!  
