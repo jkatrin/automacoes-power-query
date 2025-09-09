@@ -26,8 +26,8 @@
 ⚠️ Lean data: menos colunas = transformações mais rápidas.  
 
 - Adicionar coluna personalizada com nome KMS:  
-- Colar a fórmula do Power Query (Código M):  
-
+- Colar a fórmula do Power Query (Código M): (Veja o arquivo correspondente: [intervalo-em-lista.pq])  
+ 
 ⚠️ Conceito: arredonda o início para cima e o fim para baixo (se vierem decimais), cria uma lista de inteiros inclusiva (start..end), trata intervalo invertido (não cria nada se final < inicial).  
 
 ![coluna-personalizada](https://github.com/user-attachments/assets/ab6c71ea-eaed-4daf-a9bf-f28db8643a23)
@@ -53,8 +53,6 @@
 ⚠️ Menos colunas = carga mais leve lá no Excel.
 - Subir para o excel ("Fechar e Carregar")  🎯
 
-- Código M (Power Query)  
-- Veja o arquivo correspondente: [intervalo-em-lista.pq]  
 
 
 ## Passo a Passo no Microsoft Excel - Verificador de Malha - subindo os dados (Load)  
