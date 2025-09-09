@@ -67,12 +67,12 @@ Prontinho, quase lá! Agora vamos apenas ajustar a seleção da fórmula, porque
 
 ![ajuste](https://github.com/user-attachments/assets/e775cf0a-5536-4989-925a-cc9c9ca1d914)
 
-A coluna1 é com o 1 é apenas a somatória da formula, vá até o final dela e a deixe ao lado da ultima linha da rodovia e km (se a malha aumentou, a rodovia e km vai estar bem abaixo desta coluna 1) você arrasta para preencher até o final  
+A coluna1 com o 1 é apenas a somatória da formula, vá até o final dela e a deixe ao lado da ultima linha da rodovia e km (se a malha aumentou, a rodovia e km vai estar bem abaixo desta coluna 1) você arrasta para preencher até o final  
 
 ![ajuste1](https://github.com/user-attachments/assets/e2ebea25-f0e2-481a-b876-a5df0762d0bd)
 
 Agora, na aba "VF_DR01" vamos ajustar a seleção da fórmula  
-No campo em vermelho, coloque o número da última coluna do banco-de-dados para que a fórmula puxe até o final  
+No campo em vermelho, coloque o número da última linha do banco-de-dados para que a fórmula puxe até o final  
 Antes, ia até essa linha  
 
 ![ajuste4](https://github.com/user-attachments/assets/487a582b-6f0e-4792-8e32-62836c5a0c38)
